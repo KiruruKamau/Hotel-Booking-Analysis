@@ -1,5 +1,5 @@
 # Hotel Booking Demand Analysis
-* An end_to_end data analysis project uncovring the drivers of hotel cancellations and seasonal booking trends.*
+* An end_to_end data analysis project uncovring the drivers of hotel cancellations and seasonal booking trends. *
 
 ---
 
@@ -52,7 +52,7 @@ This Analysis moves from raw data cleaning and feature engineering to deep explo
 ![Hotel Type Comparison](https://github.com/KiruruKamau/Hotel-Booking-Analysis/blob/main/Images/hoteltype.png)
 > *Insight:* City Hotels experience significantly higher cancellation rates compared to Resort Hotels, likely due to shorter, easily alterable business trips or weekend getaways.
 
-## 🚀 Getting Started
+## Getting Started
 
 To run this analysis on your local machine:
 
@@ -72,7 +72,8 @@ Open the Jupyter Notebook:
 
 Bash
 jupyter notebook hotel_analysis.ipynb
-📊 Executive Recommendations
+
+## Executive Recommendations
 Based on the data analysis, the following actions are recommended to management:
 
 Implement Aggressive Overbooking: Overbook City Hotels by 20-30% on weekends to counteract the >50% cancellation rate from local transient demographics.
