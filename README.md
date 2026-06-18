@@ -52,5 +52,38 @@ This Analysis moves from raw data cleaning and feature engineering to deep explo
 ![Hotel Type Comparison](https://github.com/KiruruKamau/Hotel-Booking-Analysis/blob/main/Images/hoteltype.png)
 > *Insight:* City Hotels experience significantly higher cancellation rates compared to Resort Hotels, likely due to shorter, easily alterable business trips or weekend getaways.
 
+## 🚀 Getting Started
+
+To run this analysis on your local machine:
+
+### Prerequisites
+Ensure you have Python installed along with the required libraries.
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+```
+Installation
+Clone the repository:
+
+Bash
+git clone [https://github.com/KiruruKamau/Hotel-Booking-Analysis](https://github.com/KiruruKamau/Hotel-Booking-Analysis)
+Download the dataset from Kaggle and place hotel_bookings.csv in the root directory.
+
+Open the Jupyter Notebook:
+
+Bash
+jupyter notebook hotel_analysis.ipynb
+📊 Executive Recommendations
+Based on the data analysis, the following actions are recommended to management:
+
+Implement Aggressive Overbooking: Overbook City Hotels by 20-30% on weekends to counteract the >50% cancellation rate from local transient demographics.
+
+Tiered Deposit Strategy: Enforce a 20% non-refundable deposit for any booking made more than 60 days in advance to mitigate the "lead time trap."
+
+Targeted Marketing: Shift marketing spend toward Family segments, as they generate significantly higher Average Revenue Per Booking than solo travelers.
+
+IT Systems Audit: Immediately investigate "Non Refundable" booking codes in the PMS system, as data indicates a near 100% cancellation rate on these blocks, suggesting a severe operational anomaly.
+
+
+
 
 
