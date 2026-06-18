@@ -1,5 +1,5 @@
 # Hotel Booking Demand Analysis
-*An end_to_end data analysis project uncovring the drivers of hotel cancellations and seasonal booking trends.*
+*An end_to_end data analysis project uncovering the drivers of hotel cancellations and seasonal booking trends.*
 
 ---
 
